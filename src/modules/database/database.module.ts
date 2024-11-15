@@ -15,6 +15,14 @@ export const dataSourceOptions: DataSourceOptions = {
   database: configService.get<string>('DB_NAME'),
   synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
   logging: configService.get<boolean>('DB_LOGGING'),
+  extra: {
+    max: 10,
+    idleTimeoutMillis: 30000,
+    connectionTimeoutMillis: 10000,
+    ssl: {
+      rejectUnauthorized: false,
+    },
+  },
 };
 
 @Module({
