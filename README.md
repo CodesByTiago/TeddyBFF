@@ -1,9 +1,6 @@
 # Projeto Teddy Open Finance
 
-Projeto back-end idealizado para fins de teste de aplicação a vaga como Eng. Software Full-Stack Pleno.
-
-![Teddy Open Finance](./screenshots/screen001.png)
-![Teedy Open Finance](./screenshots/screen002.png)
+Projeto Back-End idealizado para fins de teste técnico para a vaga Eng. Software Full-Stack Pleno.
 
 - Aplicado TypeORM.
 - Usei Postgres como banco de dados
@@ -26,6 +23,11 @@ do teste da aplicação os testes unitário não foram aplicados ao projeto.
 - Docker
 - MSW
 - BCrypt
+
+<hr />
+
+![Teddy Open Finance](./screenshots/screen001.png)
+![Teedy Open Finance](./screenshots/screen002.png)
 
 <hr />
 
