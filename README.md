@@ -2,6 +2,9 @@
 
 Projeto back-end idealizado para fins de teste de aplicação a vaga como Eng. Software Full-Stack Pleno.
 
+![Teddy Open Finance](./screenshots/screen001.png)
+![Teedy Open Finance](./screenshots/screen002.png)
+
 - Aplicado TypeORM.
 - Usei Postgres como banco de dados
 - Utiliezei Docker para criar o banco e o PgAdmin
