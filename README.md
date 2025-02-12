@@ -2,11 +2,11 @@
 
 Projeto Back-End idealizado para fins de teste técnico para a vaga Eng. Software Full-Stack Pleno.
 
-- Aplicado TypeORM.
-- Usei Postgres como banco de dados
-- Utiliezei Docker para criar o banco e o PgAdmin
-- Foi implementado sistema de auth e guard nas rora principais de criaçào de clientes.
-- Organizaçào do projeto seguindo conceitos de clean architecture
+- Apliquei o ORM TypeORM.
+- Usei Postgres como banco de dados principal.
+- Utilizei Docker para criar o banco e o PgAdmin localmente.
+- Foi implementado sistema de auth e guard nas rota principais de criaçào de clientes.
+- Organização do projeto seguindo conceitos de clean architecture.
 
 Obg: Por motivos de que eu preferi focar nas funcionalidades por causa de prazo
 do teste da aplicação os testes unitário não foram aplicados ao projeto.
